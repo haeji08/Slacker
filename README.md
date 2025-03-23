@@ -23,7 +23,9 @@ This project is a platform that integrates indie band concert information from v
 3. **Booking System**: A simple and reliable digital ticket booking and payment system.
 
 ### System Architecture
-<img src="https://i.postimg.cc/g2pQxPK9/2025-03-23-9-02-56.png" width="420" height="260"/>
+<img src="https://i.postimg.cc/g2pQxPK9/2025-03-23-9-02-56.png" width="43
+  
+  0" height="260"/>
 
 ### UI
 **User**
